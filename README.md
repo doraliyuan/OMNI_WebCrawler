@@ -2,7 +2,7 @@
 Download data from NASA GSFC (Goddard Space Flight Center) SPDC (Space Physics Data Facility) OMNIWeb
 
 # 程式目的
-於NASA OMNIWeb網站下載所需資料，並計算所需參數，最後合併舊檔案(NetCDF)。
+於NASA OMNIWeb網站下載所需新資料，並計算所需參數，最後合併過去資料的檔案(NetCDF)。
 
 # 緣起
 為了跑電離層TIEGCM模式。
